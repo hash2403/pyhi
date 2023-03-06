@@ -5,4 +5,5 @@ Types of Git Repo
 Gitignore
 Licences
 
-Cloning Repo on Local
+Cloning Repo on Local ?
+Add files and push changes to origin ?
