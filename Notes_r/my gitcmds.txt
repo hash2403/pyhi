@@ -1,0 +1,19 @@
+
+// Started maintaining python files on git > 
+
+Configuring onmy machine, git I did : 
+ git config --global user.name "hash2403"  
+ git config --global user.email "ImDwivedi1"  
+
+git clone <*.git>
+
+git status 
+// to check local status of branch
+
+git add .
+// to add all changes in current branch
+
+git commit -m "message you want send"
+
+git push
+// to send changes to origin / branch
