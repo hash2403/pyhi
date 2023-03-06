@@ -1,0 +1,8 @@
+What is Git ?
+Whay is CICD ?
+How to create repo on Git
+Types of Git Repo
+Gitignore
+Licences
+
+Cloning Repo on Local
